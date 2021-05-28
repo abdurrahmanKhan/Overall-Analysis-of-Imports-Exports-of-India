@@ -4,6 +4,6 @@ An interactive webapp to analyse the Imports & Exports of India over the period 
 This webapp is developed so as to provide an overall analysis to any C-level Executives or higher management.
 A video is atatched in this repository which shows the working of the webapp.
 
-
+The code is made avaliable for study and research purpose only.
 ### The code in this repository should be used by the author's permission only.
 © _copyright 2021_
