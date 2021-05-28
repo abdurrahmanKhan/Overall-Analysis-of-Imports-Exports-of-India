@@ -8,7 +8,6 @@ import seaborn as sns
 import plotly.express as px
 import plotly.graph_objs as go
 from wordcloud import WordCloud,STOPWORDS
-from scipy.stats import norm
 st.set_option('deprecation.showPyplotGlobalUse', False)
 st.cache()
 
